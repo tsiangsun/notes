@@ -1,5 +1,5 @@
 ## Wiki repo
 
-### go to https://github.com/tsiangsun/wiki/wiki
+### go to https://github.com/tsiangsun/notes/wiki
 
 
